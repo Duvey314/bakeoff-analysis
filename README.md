@@ -13,7 +13,7 @@
 --- 
 This is an analysis on the great british baking show. We have a unique data set pulling from disparate sources and created routines to pull data from the GBBO website. This data is then highlighted on a github page found here.
 
-# https://oshadiw.github.io/bakeoff-analysis/
+# https://duvey314.github.io/bakeoff-analysis/
 
 # Data
 ---
